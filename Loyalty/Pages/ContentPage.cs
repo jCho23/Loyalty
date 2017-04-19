@@ -1,20 +1,21 @@
 ﻿using System;
-
 using Xamarin.Forms;
 
-namespace Loyalty
+namespace ContentPage
 {
-	public class ContentPage : ContentPage
+	public static class App
 	{
-		public ContentPage()
+		public static Page GetMainPage()
 		{
-			Content = new StackLayout
+			return new ContentPage
 			{
-				Children = {
-					new Label { Text = "Hello ContentPage" }
-				}
+				Content = new Label
+				{
+					Text = "Hello, Forms!",
+					VerticalOptions = LayoutOptions.CenterAndExpand,
+					HorizontalOptions = LayoutOptions.CenterAndExpand,
+				},
 			};
 		}
 	}
 }
-
