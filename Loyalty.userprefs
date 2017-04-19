@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{35A338C9-22A5-4C2A-95DA-0528596082D5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Loyalty/Pages/ContentPage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Loyalty/ContentPage.xaml">
     <Files>
-      <File FileName="Loyalty/Pages/ContentPage.cs" Line="1" Column="1" />
+      <File FileName="Loyalty/Pages/ContentPage.cs" Line="13" Column="6" />
+      <File FileName="Loyalty/ContentPage.xaml" Line="6" Column="1" />
+      <File FileName="Loyalty/ContentPage.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
