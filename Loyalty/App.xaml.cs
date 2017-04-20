@@ -8,7 +8,7 @@ namespace Loyalty
 		{
 			InitializeComponent();
 
-			MainPage = new LoyaltyPage();
+			MainPage = new Loyalty.ContentPage();
 		}
 
 		protected override void OnStart()

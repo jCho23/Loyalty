@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{35A338C9-22A5-4C2A-95DA-0528596082D5}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Loyalty/ContentPage.xaml">
     <Files>
-      <File FileName="Loyalty/Pages/ContentPage.cs" Line="13" Column="6" />
-      <File FileName="Loyalty/ContentPage.xaml" Line="6" Column="1" />
-      <File FileName="Loyalty/ContentPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Loyalty/ContentPage.xaml" Line="21" Column="20" />
+      <File FileName="Loyalty/App.xaml.cs" Line="3" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/junecho/Projects/Loyalty/Loyalty/ContentPage.xaml.cs" relfile="Loyalty/ContentPage.xaml.cs" line="10" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
